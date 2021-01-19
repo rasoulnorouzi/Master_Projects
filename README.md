@@ -1,1 +1,2 @@
-# Master_Projects
+# This repository contains some of my master's assignments. 
+:) Happy
